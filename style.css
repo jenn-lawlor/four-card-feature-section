@@ -53,7 +53,7 @@ h1 {
 .lede {
     color: var(--grey-400);
     padding: 1rem 1.5rem;
-    max-width: clamp(28ch, 50vw, 40ch);
+    max-width: min(90vw, 40ch);
     margin: 0 auto;
 }
 .cards {
