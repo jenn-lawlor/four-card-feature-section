@@ -16,9 +16,9 @@ A responsive four card feature section. The goal was to practice semantic HTML, 
 
 ### Screenshots
 
-![Desktop screenshot](https://raw.githubusercontent.com/jenn-lawlor/four-card-feature-section/main/assets/images/desktop-view.png)
+![Desktop screenshot](https://raw.githubusercontent.com/jenn-lawlor/four-card-feature-section/main/assets/images/desktop-version.png)
 
-![Desktop screenshot](https://raw.githubusercontent.com/jenn-lawlor/four-card-feature-section/main/assets/images/mobile-view.png)
+![Desktop screenshot](https://raw.githubusercontent.com/jenn-lawlor/four-card-feature-section/main/assets/images/mobile-version.png)
 
 ### Links
 
@@ -32,7 +32,7 @@ A responsive four card feature section. The goal was to practice semantic HTML, 
 
 ### What I learned
 
-I learned a lot about display: grid and especially about grid areas.  
+I learned a lot about display: grid and especially about grid areas.
 
 ### Author
 
