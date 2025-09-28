@@ -53,6 +53,8 @@ h1 {
 .lede {
     color: var(--grey-400);
     padding: 1rem 1.5rem;
+    max-width: 55vw;
+    margin: auto;
 }
 .cards {
     display: flex;
