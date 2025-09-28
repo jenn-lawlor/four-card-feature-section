@@ -96,7 +96,7 @@ h1 {
     }
 @media (min-width: 900px) {
     .lede {
-        max-width: 45vw;
+        max-width: 40vw;
         margin: 0 auto;
     }
     .cards {
